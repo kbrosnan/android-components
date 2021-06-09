@@ -32,7 +32,7 @@ migration:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -51,7 +51,7 @@ migration.telemetry_identifiers:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   fennec_profile_creation_date:
@@ -69,7 +69,7 @@ migration.telemetry_identifiers:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   any_failures:
@@ -86,7 +86,7 @@ migration.telemetry_identifiers:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -102,7 +102,7 @@ migration.telemetry_identifiers:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -118,7 +118,7 @@ migration.telemetry_identifiers:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -136,7 +136,7 @@ migration.telemetry_identifiers:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -159,7 +159,7 @@ migration.history:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   detected:
@@ -176,7 +176,7 @@ migration.history:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   duration:
@@ -194,7 +194,7 @@ migration.history:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -212,7 +212,7 @@ migration.history:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   any_failures:
@@ -229,7 +229,7 @@ migration.history:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -245,7 +245,7 @@ migration.history:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -261,7 +261,7 @@ migration.history:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -284,7 +284,7 @@ migration.bookmarks:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   detected:
@@ -301,7 +301,7 @@ migration.bookmarks:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   duration:
@@ -319,7 +319,7 @@ migration.bookmarks:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -337,7 +337,7 @@ migration.bookmarks:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   any_failures:
@@ -354,7 +354,7 @@ migration.bookmarks:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -370,7 +370,7 @@ migration.bookmarks:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -386,7 +386,7 @@ migration.bookmarks:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -405,7 +405,7 @@ migration.open_tabs:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   migrated:
@@ -422,7 +422,7 @@ migration.open_tabs:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   any_failures:
@@ -439,7 +439,7 @@ migration.open_tabs:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -455,7 +455,7 @@ migration.open_tabs:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -471,7 +471,7 @@ migration.open_tabs:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -489,7 +489,7 @@ migration.open_tabs:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -508,7 +508,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -525,7 +525,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -542,7 +542,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   bad_auth_state:
@@ -559,7 +559,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   has_custom_token_server:
@@ -576,7 +576,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   has_custom_idp_server:
@@ -593,7 +593,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   unsupported_account_version:
@@ -610,7 +610,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   unsupported_pickle_version:
@@ -627,7 +627,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   unsupported_state_version:
@@ -644,7 +644,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -662,7 +662,7 @@ migration.fxa:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -681,7 +681,7 @@ migration.gecko:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -697,7 +697,7 @@ migration.gecko:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -713,7 +713,7 @@ migration.gecko:
     data_sensitivity:
       - technical
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -731,7 +731,7 @@ migration.gecko:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -750,7 +750,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -767,7 +767,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   unsupported_db_version:
@@ -784,7 +784,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -801,7 +801,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   detected:
@@ -818,7 +818,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_counts:
@@ -838,7 +838,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -856,7 +856,7 @@ migration.logins:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -875,7 +875,7 @@ migration.settings:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -892,7 +892,7 @@ migration.settings:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -909,7 +909,7 @@ migration.settings:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   telemetry_enabled:
@@ -926,7 +926,7 @@ migration.settings:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -944,7 +944,7 @@ migration.settings:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -963,7 +963,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -980,7 +980,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -997,7 +997,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failed_addons:
@@ -1014,7 +1014,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   migrated_addons:
@@ -1031,7 +1031,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -1049,7 +1049,7 @@ migration.addons:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -1067,7 +1067,7 @@ migration.search:
     data_sensitivity:
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -1083,7 +1083,7 @@ migration.search:
     data_sensitivity:
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -1099,7 +1099,7 @@ migration.search:
     data_sensitivity:
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -1117,7 +1117,7 @@ migration.search:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
 
@@ -1136,7 +1136,7 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   failure_reason:
@@ -1153,7 +1153,7 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   success_reason:
@@ -1170,7 +1170,7 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   detected_pinned_sites:
@@ -1187,7 +1187,7 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   migrated_pinned_sites:
@@ -1204,7 +1204,7 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping
   total_duration:
@@ -1222,6 +1222,6 @@ migration.pinned_sites:
       - technical
       - interaction
     notification_emails:
-      - fenix-core@mozilla.com
+      - fenix-team@mozilla.com
     expires: 2021-11-01
     lifetime: ping

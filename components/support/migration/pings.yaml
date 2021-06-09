@@ -12,6 +12,6 @@ migration:
   bugs:
     - https://github.com/mozilla-mobile/fenix/issues/5888
   notification_emails:
-    - fenix-core@mozilla.com
+    - fenix-team@mozilla.com
   data_reviews:
     - https://github.com/mozilla-mobile/android-components/pull/5483#issuecomment-573971458
